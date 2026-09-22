@@ -1,0 +1,6 @@
+Chaos timeline — t = seconds since 'k6 run --duration 2m slo-test.js' was launched
+20:29:24.590  t=  0.00  k6 started; server pid=95115 listening on :3000
+20:30:14.613  t= 50.03  server stopped with SIGINT (same as Ctrl+C)
+20:30:25.015  t= 60.44  server restarted, pid=95303 listening on :3000
+downtime (SIGINT -> listening again) = 10.40 s
+k6 exit code = 99
