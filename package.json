@@ -1,0 +1,23 @@
+{
+  "name": "lab-03",
+  "version": "1.0.0",
+  "description": "F.CSA313 Lab 03 — quality scenario → SLO → k6 threshold",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orgilsaikhan/F.CSA313-Lab-03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orgilsaikhan/F.CSA313-Lab-03/issues"
+  },
+  "homepage": "https://github.com/Orgilsaikhan/F.CSA313-Lab-03#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
